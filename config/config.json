@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd4e4bde7c16178da403a6c312100213b3708e86c",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd4e4bde7c16178da403a6c312100213b3708e86c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "OmniMoonBirds | cc0",
+  "SYMBOL": "Moonbird",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 350000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/omnimoonbirds-cc0",
+  "SHOW_BACKGROUND": true
+}
